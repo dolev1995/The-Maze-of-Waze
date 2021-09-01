@@ -8,8 +8,6 @@ package dataStructure;
  * 5. double shortestPathDist(int src, int dest);
  * 6. List<Node> shortestPath(int src, int dest);
  *
- * @author boaz.benmoshe
- *
  */
 
 import java.util.List;
