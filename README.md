@@ -28,6 +28,10 @@ Our fourth quest in the OOP course
  of the game.
 
 
+![image](https://user-images.githubusercontent.com/57942180/136081310-8879de91-5eb2-4ac5-ad95-82e7d43caef7.png)
+
+
+
 ## Fruit and Robot
 Custom classes that contain all the information of the robots and fruits in the game
 
