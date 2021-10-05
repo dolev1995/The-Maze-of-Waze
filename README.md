@@ -38,6 +38,10 @@ Custom classes that contain all the information of the robots and fruits in the 
 ## KML Logger
 The Class KML_Logger. it gives you the option the save Your game review in a kml format
 
+
+![image](https://user-images.githubusercontent.com/57942180/136081589-03b30a11-acc7-490b-b1d0-ef8661db5422.png)
+
+
 ### Algorithms
 The Abstract Class Algorithms.
 It contains a collection of useful algorithms on graphs 
